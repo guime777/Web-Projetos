@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Barbie";
+    src: url(./Barbie.otf);
+}
+
+caption{
+    font-family: "Barbie";
+    font-size: 72px;
+}
+h2{
+    font-family: "Barbie";
+    background-color: deeppink;
+}
+img {
+    width: 300px;  /* Ajuste conforme necessário */
+    height: 300px; /* Ajuste conforme necessário */
+    object-fit: cover; /* Mantém a proporção da imagem */
+}
+body{
+    background-color: pink;
+}
